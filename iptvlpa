@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1,PT: RTP 1
+#EXTINF:-1,1
 https://www.youtube.com/watch?v=nub98QfGUh0
-#EXTINF:-1,PT: RTP2 HD 
+#EXTINF:-2,2
 https://www.youtube.com/watch?v=XhxJRs_l_Bo
-#EXTINF:-1,PT: RTP 2 
+#EXTINF:-3,3
 https://www.youtube.com/watch?v=V6EeRmn7W4o
-#EXTINF:-1,PT: RTP 3 HD 
+#EXTINF:-4,4
 https://www.youtube.com/watch?v=TeMoKSecmbM
-#EXTINF:-1,PT: RTP MEMORIA
+#EXTINF:-5,5
 https://www.youtube.com/watch?v=d6Ski11LTpE
-#EXTINF:-1,PT: RTP MADEIRA 
+#EXTINF:-6,6 
 https://www.youtube.com/watch?v=s4r3bp5p3P4
-#EXTINF:-1,PT: RTP AFRICA 
+#EXTINF:-7,7
 https://www.youtube.com/watch?v=Q50Lxm---lw
-#EXTINF:-1,PT: RTP ACORES 
+#EXTINF:-8,8
 https://www.youtube.com/watch?v=HH9ba-HewJU
-#EXTINF:-1,PT: RTP Informacional
+#EXTINF:-9,9
 https://www.youtube.com/watch?v=GqI4mvc1uao
-#EXTINF:-1,PT: TVI24 
+#EXTINF:-10,10
 https://www.youtube.com/watch?v=-TSxErve59A
-#EXTINF:-1,PT: TVI HD 
+#EXTINF:-11,11 
 https://www.youtube.com/watch?v=ist84_NfzYQ
-#EXTINF:-1,PT: TVI
+#EXTINF:-12,12
 https://www.youtube.com/watch?v=_csSACEmxoA
-#EXTINF:-1,PT: TVI FICCAO
+#EXTINF:-13,13
 https://www.youtube.com/watch?v=I7kv49EARz8
-#EXTINF:-1,PT: TVI Reality
+#EXTINF:-14,14
 https://www.youtube.com/watch?v=Wap4jgMBXPI
-#EXTINF:-1,PT: CMTV HD 
+#EXTINF:-15,15
 https://www.youtube.com/watch?v=SI7ptt5FGTk
-#EXTINF:-1,PT: SIC HD 
+#EXTINF:-16,16
 https://www.youtube.com/watch?v=ETeFrtijdpQ
-#EXTINF:-1,PT: SIC
+#EXTINF:-17,17
 https://www.youtube.com/watch?v=cmlJ9yFhziQ
-#EXTINF:-1,PT: SIC K 
+#EXTINF:-18,18
 https://www.youtube.com/watch?v=VwGlTnO99-c
-#EXTINF:-1,PT: SIC RADICAL HD 
+#EXTINF:-19,19
 https://www.youtube.com/watch?v=DrGVBewE630
-#EXTINF:-1,PT: SIC NOTICIAS HD 
+#EXTINF:-20,20
 https://www.youtube.com/watch?v=IqH1qpo2Pm8
-#EXTINF:-1,PT: SIC MULHER
+#EXTINF:-21,21
 https://www.youtube.com/watch?v=_XnwsqGfbKY
-#EXTINF:-1,PT: TVCine 1 HD
+#EXTINF:-22,22
 https://www.youtube.com/watch?v=zeF3JPD0Fyg
-#EXTINF:-1,PT: TVCINE 1
+#EXTINF:-23,23
 https://www.youtube.com/watch?v=Yy4jAiWH9hc
